@@ -1,6 +1,6 @@
-# User Sync API Brief
 ![Iron Gate Safety](https://storage.googleapis.com/bw2-static/assets/igss-logo-450px.png)
 
+# User Sync API Brief
 Updated 2020-02-15
 
 The User Sync API allows the Iron Gate Safety System to sync its internal database of users with a third-party system (e.g. an HR system, etc.).  Once implemented, the API allows for companies to sync users across systems at regular, automated intervals.
